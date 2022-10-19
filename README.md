@@ -30,7 +30,7 @@ SpringBoot
 <br><br><br>
 <h3 align="center"> My programming resume home page preview </h3>
 <p align="center">  
-<img height="600 px" src="https://i.imgur.com/qC48oDs.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/qC48oDs.png" title="source: imgur.com" />
 <img height="500 px" src="https://i.imgur.com/x7gtnqt.png" title="source: imgur.com" />
 <img src="https://i.imgur.com/XsJCZyC.png" title="source: imgur.com" />
 <img height="500 px" src="https://i.imgur.com/pUhFdjD.png" title="source: imgur.com" />

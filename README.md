@@ -15,14 +15,17 @@ SpringBoot
 <p align="center">
 <img height="500 px" src="https://i.imgur.com/X8kiRWO.png" title="source: imgur.com" />
 
-<img height="450 px" src="https://i.imgur.com/I3fkXrT.png" title="source: imgur.com" />
-<img height="450 px" src="https://i.imgur.com/52LxyD0.png" title="source: imgur.com" />
+<img height="350 px" src="https://i.imgur.com/I3fkXrT.png" title="source: imgur.com" />
+<img width="30 px" src="https://i.imgur.com/XsJCZyC.png" title="source: imgur.com" />
+<img height="350 px" src="https://i.imgur.com/52LxyD0.png" title="source: imgur.com" />
+</p>
 
-<img height="500 px" src="https://i.imgur.com/EIxsHp0.png" title="source: imgur.com" />
+<p float="left" align="center">
+<img height="400 px" src="https://i.imgur.com/EIxsHp0.png" title="source: imgur.com" />
   <img width="50 px" src="https://i.imgur.com/XsJCZyC.png" title="source: imgur.com" />
-<img height="500 px" src="https://i.imgur.com/QtvyQKX.png" title="source: imgur.com" />
+<img height="400 px" src="https://i.imgur.com/QtvyQKX.png" title="source: imgur.com" />
   <img width="50 px" src="https://i.imgur.com/XsJCZyC.png" title="source: imgur.com" />
-<img height="500 px" src="https://i.imgur.com/ahVFCBZ.png" title="source: imgur.com" />
+<img height="400 px" src="https://i.imgur.com/ahVFCBZ.png" title="source: imgur.com" />
 </p>
 <br><br><br>
 <h3 align="center"> My programming resume home page preview </h3>

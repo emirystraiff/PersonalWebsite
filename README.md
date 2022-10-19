@@ -13,7 +13,7 @@ SpringBoot
 
 <h3 align="center"> Art portfolio home page preview </h3>
 <p align="center">
-<img height="500 px" src="https://i.imgur.com/X8kiRWO.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/X8kiRWO.png" title="source: imgur.com" />
 
 <img height="350 px" src="https://i.imgur.com/I3fkXrT.png" title="source: imgur.com" />
 <img width="30 px" src="https://i.imgur.com/XsJCZyC.png" title="source: imgur.com" />

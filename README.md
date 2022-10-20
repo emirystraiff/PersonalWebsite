@@ -5,6 +5,7 @@ For this project, I wanted to combine two interests of mine that is very importa
 
 <br>
 <p align="center">
+  <ins>Current tech stack:</ins> <br>
 HTML - CSS - JavaScript <br>
 Bootstrap
 </p>

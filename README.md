@@ -6,8 +6,7 @@ For this project, I wanted to combine two interests of mine that is very importa
 <br>
 <p align="center">
 HTML - CSS - JavaScript <br>
-CSS grid - Flexbox<br>
-SpringBoot
+Bootstrap
 </p>
 <br>
 

@@ -1,7 +1,7 @@
 <h1 align="center"> My personal website</h1>
 
 This is my first coding project learning HTML, CSS, and JavaScript. Although it is a BLAST learning every step of the way, my code is not as neat as I would like it to be. I plan to clean up the code later, but for now, I have included previews of the home pages below.
-For this project, I wanted to combine two interests of mine that is very important to me: art and programming. Thus, I decided to create my personal portfolio website with an art side and a coding portfolio side.
+For this project, I wanted to combine two interests of mine that is very important to me: art and programming. Thus, I decided to create my personal portfolio website with an art side and a coding side.
 
 <br>
 <p align="center">
